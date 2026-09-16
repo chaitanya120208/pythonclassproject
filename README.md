@@ -1,2 +1,5 @@
-# pythonclassproject
-This is a console based billing application built in Python for a cafe . The program allows the user to select items from a predefined menu ,input the quantity ordered for each item, and automatically calculates the subtotal. It then applies GST to compute the tax amount, and adds it to the subtotal to generate the final total payable amount.
+The Cafe Bill Calculator is a simple Python-based project designed to calculate the total bill for items ordered at a café. The program takes the item prices and quantities as input, calculates the subtotal, adds the applicable GST (Goods and Services Tax), and displays the final bill amount.This project demonstrates the use of basic Python concepts such as variables, user input, arithmetic operations, and formatted output. It provides a quick and accurate way to calculate café bills while reducing manual calculation errors.
+
+
+
+
